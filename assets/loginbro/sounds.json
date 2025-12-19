@@ -1,0 +1,10 @@
+{
+  "loginbro.custom_login_music": {
+    "sounds": [
+      {
+        "name": "loginbro/custom_login_music",
+        "stream": true  
+      }
+    ]
+  }
+}
